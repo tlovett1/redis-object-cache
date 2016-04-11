@@ -1,8 +1,8 @@
-# Redis Object Cache Drop in for WordPress
+# Redis Object Cache Drop-in for WordPress
 
 _[This is a fork of WP Redis](https://github.com/pantheon-systems/wp-redis)_
 
-A simple drop in that makes WordPress cache objects in Redis. This reason for the fork is to ensure compatibility with [Batcache](https://wordpress.org/plugins/batcache/).
+A simple drop-in that makes WordPress cache objects in Redis. This reason for the fork is to ensure compatibility with [Batcache](https://wordpress.org/plugins/batcache/).
 
 ## Installation
 
